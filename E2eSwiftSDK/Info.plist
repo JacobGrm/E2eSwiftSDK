@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>server_url</key>
+	<string>https://98h7v1.run.aws-usw02-pr.ice.predix.io</string>
+	<key>client_id</key>
+	<string>jacob_mobile</string>
+	<key>client_secret</key>
+	<string>Test123</string>
+	<key>uaa_url</key>
+	<string>https://7dd76bdd-1c4a-4f1f-aaf9-a5f3c64ee0be.predix-uaa.run.aws-usw02-pr.ice.predix.io</string>
+	<key>uaa_url_asset</key>
+	<string>https://e7621a47-0d7c-4f75-8f27-813791191732.predix-uaa.run.aws-usw02-pr.ice.predix.io</string>
+	<key>client_id_asset</key>
+	<string>jacob_asset_client</string>
+	<key>client_secret_asset</key>
+	<string>Test123</string>
+	<key>user_name_asset</key>
+	<string>jacob.asset@ge.com</string>
+	<key>user_pwd_asset</key>
+	<string>Test123</string>
+</dict>
+</plist>

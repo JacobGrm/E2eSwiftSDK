@@ -1,2 +1,2 @@
 # E2eSwiftSDK
-e2e IOS
+Testing framework for e2e tests
